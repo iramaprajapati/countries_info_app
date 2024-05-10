@@ -11,7 +11,7 @@ To build and run this project:
 3. `cd` into the repo folder.
 4. Open the project in VS Code or Android Studio.
 5. run `flutter pub get` to get all dependencies.
-6. run `flutter run-android` or `flutter run-ios` to build the app.
+6. run `flutter run` to build the app.
 
 (Please note that a Mac with XCode is required to build for iOS)
 
