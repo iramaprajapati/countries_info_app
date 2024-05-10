@@ -1,6 +1,7 @@
 # World Countries | countries_info_app
 
-A new Flutter project.
+A new Flutter project that fetches and displays information about countries from the REST Countries API. 
+The application categorizes countries into continents and displays their flags and other information.
 
 ## Getting Started
 To build and run this project:
