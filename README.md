@@ -1,16 +1,27 @@
-# countries_info_app
+# World Countries | countries_info_app
 
 A new Flutter project.
 
 ## Getting Started
+To build and run this project:
 
-This project is a starting point for a Flutter application.
+1. Get Flutter [here](https://flutter.dev) if you don't already have it
+2. Clone this repository.
+3. `cd` into the repo folder.
+4. Open the project in VS Code or Android Studio.
+5. run `flutter pub get` to get all dependencies.
+6. run `flutter run-android` or `flutter run-ios` to build the app.
 
-A few resources to get you started if this is your first Flutter project:
+(Please note that a Mac with XCode is required to build for iOS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## World Countries App Screenshots 
+![p1](https://github.com/iramaprajapati/countries_info_app/assets/122166121/0a624ff2-a1c3-4ef9-b8b2-c0d2e343ce39)
+![p2](https://github.com/iramaprajapati/countries_info_app/assets/122166121/6451def0-9809-47fa-99c8-0ce32c38a0ee)
+![p3](https://github.com/iramaprajapati/countries_info_app/assets/122166121/e4e2a6b1-c982-4a08-a600-e3a547a9bfa5)
+![p4](https://github.com/iramaprajapati/countries_info_app/assets/122166121/f53caf2a-0be1-451c-a1fc-98d53f7781da)
+![p5](https://github.com/iramaprajapati/countries_info_app/assets/122166121/ea38acec-8db6-484d-b244-36b0b65cdfa9)
+![p6](https://github.com/iramaprajapati/countries_info_app/assets/122166121/33dc96cb-f833-40c6-ad5b-5057ba2c40db)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
